@@ -1,0 +1,313 @@
+body {
+    background-image:url("https://z-m-scontent.fbni1-1.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/89819822_660586431439646_8464277683008700416_o.jpg?_nc_cat=101&_nc_sid=85a577&efg=eyJpIjoibyJ9&_nc_eui2=AeH5ETQ_v45j2UwxuerYW3j5iLBHNlWzh0SR5qddLu7CDQlGXOkmFZLIcayN6PyUcnJ_38i7TAkD01xHJfEGOGW0NhhmKehVcgXstaGmXdYpmw&_nc_oc=AQnmMtfdOnKreMvirNMMedDmw0cSXp-SHwPsnpygDkGg4i9gvdlTLWJWECBuCIcIooU&_nc_ad=z-m&_nc_cid=1361&_nc_zor=9&_nc_eh=79e9f8e365cbc3cbafc6673ab591d687&_nc_ht=z-m-scontent.fbni1-1.fna&_nc_tp=14&oh=3363a49145f39cb2e31e405498152382&oe=5E9088C7");
+    background-size:100% 45% ;
+    background-repeat:no-repeat;
+    margin:0px;
+    }
+    @media only screen and (min-width:900px) {
+        /* For desktop: */
+        .col-1 {width: 8.33%;}
+        .col-2 {width: 16.66%;}
+        .col-3 {width: 25%;}
+        .col-4 {width: 33.33%;}
+        .col-5 {width: 41.66%;}
+        .col-6 {width: 50%;}
+        .col-7 {width: 58.33%;}
+        .col-8 {width: 66.66%;}
+        .col-9 {width: 75%;}
+        .col-10 {width: 83.33%;}
+        .col-11 {width: 91.66%;}
+        .col-12 {width: 100%;}
+        body {
+            background-image:url("file:///C:/Users/Public/Pictures/Sample Pictures/Desert.jpg");
+            background-size:100% 70% ;
+            background-repeat:no-repeat;
+            margin:0px;
+            }
+            input{
+                width:30%
+            }
+        }
+
+    @media only screen and (min-width:850px) {
+        /* For desktop: */
+        .col-1 {width: 8.33%;}
+        .col-2 {width: 16.66%;}
+        .col-3 {width: 25%;}s
+        .col-4 {width: 33.33%;}
+        .col-5 {width: 41.66%;}
+        .col-6 {width: 50%;}
+        .col-7 {width: 58.33%;}
+        .col-8 {width: 66.66%;}
+        .col-9 {width: 75%;}
+        .col-10 {width: 83.33%;}
+        .col-11 {width: 91.66%;}
+        .col-12 {width: 100%;}
+        body {
+            background-image:url("file:///C:/Users/Public/Pictures/Sample Pictures/Desert.jpg");
+            background-size:100% 65% ;
+            background-repeat:no-repeat;
+            margin:0px;
+            }
+            input{
+                width:30%
+            }
+        }
+        @media only screen and (max-width:750px) {
+            /* For desktop: */
+            .col-1 {width: 8.33%;}
+            .col-2 {width: 16.66%;}
+            .col-3 {width: 25%;}
+            .col-4 {width: 33.33%;}
+            .col-5 {width: 41.66%;}
+            .col-6 {width: 50%;}
+            .col-7 {width: 58.33%;}
+            .col-8 {width: 66.66%;}
+            .col-9 {width: 75%;}
+            .col-10 {width: 83.33%;}
+            .col-11 {width: 91.66%;}
+            .col-12 {width: 100%;}
+            body {
+                background-image:url("file:///C:/Users/Public/Pictures/Sample Pictures/Desert.jpg");
+                background-size:100% 60% ;
+                background-repeat:no-repeat;
+                margin:0px;
+                }
+                input{
+                    width:30%
+                }
+            }
+            @media only screen and (max-width:700px) {
+                /* For desktop: */
+                .col-1 {width: 8.33%;}
+                .col-2 {width: 16.66%;}
+                .col-3 {width: 25%;}
+                .col-4 {width: 33.33%;}
+                .col-5 {width: 41.66%;}
+                .col-6 {width: 50%;}
+                .col-7 {width: 58.33%;}
+                .col-8 {width: 66.66%;}
+                .col-9 {width: 75%;}
+                .col-10 {width: 83.33%;}
+                .col-11 {width: 91.66%;}
+                .col-12 {width: 100%;}
+                body {
+                    background-image:url("file:///C:/Users/Public/Pictures/Sample Pictures/Desert.jpg");
+                    background-size:100% 55% ;
+                    background-repeat:no-repeat;
+                    margin:0px;
+                    }
+                    input{
+                        width:30%
+                    }
+                }
+    
+    @media only screen and (max-width:600px) {
+        /* For desktop: */
+        .col-1 {width: 8.33%;}
+        .col-2 {width: 16.66%;}
+        .col-3 {width: 25%;}
+        .col-4 {width: 33.33%;}
+        .col-5 {width: 41.66%;}
+        .col-6 {width: 50%;}
+        .col-7 {width: 58.33%;}
+        .col-8 {width: 66.66%;}
+        .col-9 {width: 75%;}
+        .col-10 {width: 83.33%;}
+        .col-11 {width: 91.66%;}
+        .col-12 {width: 100%;}
+        body {
+            background-image:url("file:///C:/Users/Public/Pictures/Sample Pictures/Desert.jpg");
+            background-size:100% 50% ;
+            background-repeat:no-repeat;
+            margin:0px;
+            }
+            input{
+                width:30%
+            }
+        }
+        @media only screen and (max-width:500px) {
+            /* For desktop: */
+            .col-1 {width: 8.33%;}
+            .col-2 {width: 16.66%;}
+            .col-3 {width: 25%;}
+            .col-4 {width: 33.33%;}
+            .col-5 {width: 41.66%;}
+            .col-6 {width: 50%;}
+            .col-7 {width: 58.33%;}
+            .col-8 {width: 66.66%;}
+            .col-9 {width: 75%;}
+            .col-10 {width: 83.33%;}
+            .col-11 {width: 91.66%;}
+            .col-12 {width: 100%;}
+            body {
+                background-image:url("file:///C:/Users/Public/Pictures/Sample Pictures/Desert.jpg");
+                background-size:100% 45% ;
+                background-repeat:no-repeat;
+                margin:0px;
+                }
+                input{
+                    width:30%
+                }
+            }
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.first_div{
+    margin-top:10%;
+}
+
+.page-header{
+text-align:center;
+background-color:red;
+margin:30%;
+margin-top:3%;
+margin-bottom:0%;
+
+padding:1%;
+
+}
+
+.page_header{
+ text-align:center;
+background-color:skyblue;
+margin:30%;
+margin-top:3%;
+margin-bottom:0%;
+
+padding:1%;
+
+}
+.first_div_4thchild{
+    color:black;
+    display:block;
+    text-align:center;
+    font-size: 2em;
+}
+.first_div_3rdchild >.span1{
+    margin-right:5%;
+}
+.first_div_3rdchild>.span2{
+
+    margin-left:20%;
+    
+    }
+.first_div_2ndchild> .span1{
+        margin-right:5%;
+
+    }
+.first_div_2ndchild> .span2{
+        margin-left:20%;
+
+    }
+.second_div{
+    background-color:rgb(225,225,225);
+}
+input[type="text"],input[type="number"],select{
+
+ margin-left:2%;
+}
+input[type="number"]{
+    width:10%;
+}
+.third_div_firstchild,.third_div_2ndchild{ 
+  float:left; 
+  display:inline;
+  width:50%;
+    
+ }
+  .third_div_2ndchild ol{
+    list-style-type:none; 
+    background-color:rgba(225,225,225,0.1); 
+    padding:0px;
+}
+    .third_div_2ndchild li: :nth-child(even){ 
+    border:1px solid rgba(0,0,0,0.1);
+    background-color:rgba(225,225,225,0.1);
+    padding:5px;
+ } 
+ .third_div_firstchild ol{
+    list-style-type:none;
+    text-align:left; 
+    background-color:rgba(225,225,225,0.1);
+    padding:0px; 
+} 
+.third_div_firstchild li {
+    border:1px solid rgba(0,0,0,0.1);
+    background-color:rgba(225,225,225,0.1);
+    padding:5px; width:100%;
+ }
+  .third_div_firstchild li #span2{
+    margin-left:30%; 
+    margin-right:30%;
+    color:red
+} 
+
+.third_div_firstchild li .btn{
+     display:none
+}
+.third_div_firstchild li:hover .btn{
+    display:inline;
+}
+
+.third_div_2ndchild li .btn{
+    display:none
+}
+.third_div_2ndchild li:hover .btn{
+   display:inline;
+}
+
+
+.third_div_firstchild li #span1{
+    margin-left:0%;
+ } 
+.third_div_2ndchild li #span22{
+    margin-left:30%; 
+    margin-right:30%;
+    color:red
+}
+.third_div_2ndchild li .span33{
+    display:none
+} 
+
+.third_div_2ndchild
+ li #span11{
+margin-left:0%;
+ }
+ 
